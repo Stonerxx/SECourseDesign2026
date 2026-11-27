@@ -50,10 +50,10 @@
 - **增量 3**：异常件申诉流转、站长看板与报表统计、员工排班。
 
 ---
-## 📂 项目文档规范 (待补充)
-- [ ] `docs/requirements`：需求规格说明书 (SRS)、问卷与访谈记录
-- [ ] `docs/design`：UML 图（用例图、类图、状态图、序列图）
-- [ ] `docs/api`：API 接口文档
+## 📂 项目文档索引
+- [x] [`docs/requirements`](docs/requirements)：需求调研报告、访谈与问卷、用户故事清单、[需求规格说明书（SRS）v0.1](docs/requirements/需求规格说明书（SRS）.md)
+- [x] [`docs/design`](docs/design)：[用例图与用例清单 v0.1](docs/design/用例图.md)（类图、状态图、序列图待补充）
+- [ ] `docs/api`：API 接口文档（待补充）
 
 ---
 *声明：本项目为软件工程课程设计项目，目前处于需求调研初期，相关设计会随调研结果动态调整。*
